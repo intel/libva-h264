@@ -1,0 +1,3 @@
+extensions = ['breathe']
+breathe_projects = { "libva-h264": "@abs_top_builddir@/doxygen-out/xml" }
+breathe_default_project = "libva-h264"

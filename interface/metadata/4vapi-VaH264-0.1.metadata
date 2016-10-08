@@ -1,0 +1,4 @@
+va_buffer_create_info name="buffer_create_info"
+parser_set_stream.stream type="uint8*"
+dpb_update_one_au.pics_to_output_before_decode type="int*" out=true
+dpb_end_of_stream.pics_to_output_before_decode type="int*" out=true
